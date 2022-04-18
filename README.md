@@ -1,1 +1,3 @@
-# ExploratoryAnalysis_FeatureSelection
+# Exploratory Analysis and Feature Selection for the Prediction of Nitrogen Dioxide
+
+Nitrogen dioxide is one of the most hazardous pollutants identified by the World Health Organisation. Predicting and reducing pollutants is becoming a very urgent task. Many methods have been utilised to predict its concentration, such as physical or machine learning models. In addition to choosing the right model, it is also critical to choose the appropriate features. This work focuses on the exploration of nitrogen dioxide and its associated features related to the spatial dimension and the implementation of feature selection methods. Bidirectional ConvLSTM was used to predict nitrogen dioxide in spatiotemporal dimensions using different selected subsets. The results highlight the importance of selecting the minimum relevant features.
