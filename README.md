@@ -4,7 +4,7 @@ Nitrogen dioxide is one of the most hazardous pollutants identified by the World
 
 _MadridExploration.zip_ contains the result of an exploratory analysis that identifies the relationship between nitrogen dioxide and additional features (meteorological and traffic data).
 _Traffic_Average_Speed_Calculation.ipynb_ calculates the average traffic speed for the period 1-7 January 2019 in the city of Madrid.
-_mRMR.ipynb_ calculates Maximum Relevance - Minimum Redundancy.
+_mRMR.ipynb_ calculates Maximum Relevance - Minimum Redundancy. _Mutual_Information.ipynb_ calculates mutual information.
 
 The code for grid cell generation, data preprocessing and the model construction can be found at the following link: https://bit.ly/3vfwrjJ
 
