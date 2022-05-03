@@ -4,15 +4,15 @@ Nitrogen dioxide is one of the most hazardous pollutants identified by the World
 
 The purpose of each file included in this repository is briefly described below:
 
-_ _MadridExploration.zip_ contains the result of an exploratory analysis that identifies the relationship between nitrogen dioxide and additional features (meteorological and traffic data).
+- _MadridExploration.zip_ contains the result of an exploratory analysis that identifies the relationship between nitrogen dioxide and additional features (meteorological and traffic data).
 
-_ _Traffic_Average_Speed_Calculation.ipynb_ calculates the average traffic speed for the period 1-7 January 2019 in the city of Madrid.
+- _Traffic_Average_Speed_Calculation.ipynb_ calculates the average traffic speed for the period 1-7 January 2019 in the city of Madrid.
 
-_ _mRMR.ipynb_ calculates Maximum Relevance - Minimum Redundancy. 
+- _mRMR.ipynb_ calculates Maximum Relevance - Minimum Redundancy. 
 
-_ _Mutual_Information.ipynb_ calculates mutual information. 
+- _Mutual_Information.ipynb_ calculates mutual information. 
 
-_ _BiConvLSTM.ipynb_ includes the steps for predicting nitrogen dioxide implementing BiConvLSTM on various selected subsets.
+- _BiConvLSTM.ipynb_ includes the steps for predicting nitrogen dioxide implementing BiConvLSTM on various selected subsets.
 
 The final version of the preprocessed dataset can be found at the following link: https://doi.org/10.5281/zenodo.6497108. The code for grid cell generation, data preprocessing and the model construction can be found at the following link: https://bit.ly/3vfwrjJ
 
