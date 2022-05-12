@@ -10,6 +10,6 @@ The purpose of each file included in this repository is briefly described below:
 - _Mutual_Information.ipynb_ calculates mutual information. 
 - _BiConvLSTM.ipynb_ includes the steps for predicting nitrogen dioxide implementing BiConvLSTM on various selected subsets.
 
-The final version of the preprocessed dataset can be found at the following link: https://doi.org/10.5281/zenodo.6497108. The code for grid cell generation, data preprocessing and the model construction can be found at the following link: https://bit.ly/3vfwrjJ
+The final version of the preprocessed dataset can be found at the following link: https://doi.org/10.5281/zenodo.6543073. The code for grid cell generation, data preprocessing and the model construction can be found at the following link: https://bit.ly/3vfwrjJ
 
 
